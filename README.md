@@ -2,7 +2,7 @@
 
 Hiii, and welcome to the orchard! (* ^ ω ^) ♥
 
-**Whisperbough** is a cozy pixel-art orchard sim made in Unity, in the spirit of Stardew Valley. You inherit a secluded, abandoned forest garden where the fruit trees and plants have been left alone for far too long, and they really need someone to care for them. The atmosphere is soft, misty and intimate, more of a quiet morning in the woods than anything spooky. (๑˘︶˘๑)
+**Whisperbough** is a cozy 2D-art orchard sim made in Unity, in the spirit of Stardew Valley. You inherit a secluded, abandoned forest garden where the fruit trees and plants have been left alone for far too long, and they really need someone to care for them. The atmosphere is soft, misty and intimate, more of a quiet morning in the woods than anything spooky. (๑˘︶˘๑)
 
 > 🚧 **Work in progress!** This is an early-stage project, so things will change a lot along the way... (>ω<)ゞ
 
