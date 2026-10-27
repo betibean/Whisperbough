@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -40,6 +40,33 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background 2
+    uniqueID: 3069963833
+    locked: 0
+  - name: Background
+    uniqueID: 4039682691
+    locked: 0
+  - name: Ground
+    uniqueID: 2535944353
+    locked: 0
+  - name: Structures
+    uniqueID: 608877075
+    locked: 0
+  - name: Interactibles
+    uniqueID: 3016941317
+    locked: 0
+  - name: Character
+    uniqueID: 1926757531
+    locked: 0
+  - name: Plants
+    uniqueID: 1518240367
+    locked: 0
+  - name: Foreground
+    uniqueID: 2174424643
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 1938980697
     locked: 0
   m_RenderingLayers:
   - Default
